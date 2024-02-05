@@ -20,10 +20,10 @@ Hi there I am Vivian Murathimi👋
 ---
 
 ### 👨‍💻 About Me:
-I am a Backend Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Pecs.
 - :telescope: I’m a Software Engineer in the making and contributing to backend for building robust applications.
 
-- :seedling: Studying Business Information Technology
+- :seedling: Studying Computer science engineering..University of Pecs ,Hungary
 
 - :zap: In my free time, I love listening to music.
 
